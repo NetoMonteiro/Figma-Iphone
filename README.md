@@ -10,7 +10,7 @@ A design prototype inspired by apple products, I made a dynamic website
 <img src=".github/photo3.png" width="908" height="auto">
 <img src=".github/photo4.png" width="908" height="auto">
 
-[Run this website in Figma](https://www.figma.com/file/Zbls2C0U6gdxUMODrQlBhn/projeto-iPhone?type=design&node-id=9%3A1852&mode=design&t=ArqNZx6vT44pAgPJ-1)
+[Run this website in Figma](https://www.figma.com/proto/Zbls2C0U6gdxUMODrQlBhn/projeto-iPhone?node-id=9-1852&t=fBR8YbyPyVOJegeS-0&scaling=scale-down&page-id=0%3A1&content-scaling=fixed)
 
 ## How the project was done
 The project was made using SVG and images, animations contained in figma itself, and some plugins that I will be making available
